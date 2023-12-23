@@ -6,9 +6,9 @@ This project aims to create a simple ToDoList application using Python.
 - [Overview](#overview)
 - [Features](#features)
 - [Usage](#usage)
-- [Installation](#installation)
-- [Contributing](#contributing)
-- [License](#license)
+  
+
+
 
 ## Overview
 
